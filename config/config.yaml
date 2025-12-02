@@ -123,3 +123,5 @@ platforms:
     name: "V2EX"
   - id: "sspai"
     name: "少数派"
+  - id: "steam"
+    name: "Steam"
